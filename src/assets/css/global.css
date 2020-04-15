@@ -1,0 +1,8 @@
+/*全局样式表
+然后main入口文件导入
+*/
+html,body,#app{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
